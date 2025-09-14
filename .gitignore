@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Data files
+data/*.csv
+data/*.json
+data/*.parquet
+data/*.db
+
+# Streamlit cache
+.streamlit/

@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+pandas
+pyarrow      # optional but recommended for parquet
+sqlalchemy
+streamlit
+altair
+plotly
+lxml
+tqdm

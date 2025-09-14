@@ -1,0 +1,11 @@
+books_dashboard/
+├── requirements.txt
+├── scrape.py
+├── transform_and_load.py
+├── dashboard.py
+├── data/
+│   ├── raw_books.json
+│   ├── raw_books.csv
+│   ├── books_clean.parquet
+│   └── books.db
+└── README.md
