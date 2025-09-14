@@ -19,26 +19,6 @@ The project showcases:
 
 ---
 
-## 🗂️ Project Structure
-
-books_dashboard/
-│
-├── data/ # (ignored in git) contains raw & processed data
-│ ├── raw_books.json
-│ ├── raw_books.csv
-│ ├── books_clean.parquet
-│ └── books.db
-│
-├── scrape.py # Extract: scrape book data from website
-├── transform_and_load.py # Transform & Load: clean and store data
-├── dashboard.py # Visualization: Streamlit app
-│
-├── requirements.txt # Python dependencies
-├── .gitignore # Ignore venv/data/cache
-└── README.md # Project documentation
-
-
----
 
 ## ⚙️ Tech Stack
 
